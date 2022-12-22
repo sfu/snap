@@ -114,7 +114,7 @@
     "helmet": "3.4.0",
     "http-proxy-middleware": "1.0.3",
     "https-proxy-agent": "5.0.0",
-    "jsonwebtoken": "7.3.0",
+    "jsonwebtoken": "9.0.0",
     "knex": "0.21.17",
     "leaflet": "1.0.3",
     "lodash": "4.17.4",
