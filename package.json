@@ -115,7 +115,7 @@
     "http-proxy-middleware": "1.0.3",
     "https-proxy-agent": "5.0.0",
     "jsonwebtoken": "7.3.0",
-    "knex": "0.21.17",
+    "knex": "2.4.0",
     "leaflet": "1.0.3",
     "lodash": "4.17.4",
     "method-override": "2.3.7",
